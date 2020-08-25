@@ -199,8 +199,6 @@ def login():
 	print logo
 	jalan("\033[1;97m⊱⋕⊰══════════════════════════════════════⊱⋕⊰") 
 	print "\033[1;91m>>>\033[1;91m[1]\033[1;92m Cloning Semua Negara \033[1;91m(\033[1;97mTanpa Fb login\033[1;91m) "
-	time.sleep(0.05)
-	print "\033[1;91m>>>\033[1;91m[2]\033[1;94m Login Pakai Facebook  "
         time.sleep(0.05)
         print "\033[1;91m>>>\033[1;91m[3]\033[1;92m Login Pakai Akses token "
         time.sleep(0.05)
